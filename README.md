@@ -79,3 +79,8 @@ The inverse can be said about property type having smaller buildings or less num
 They have a negative correlation with emissions and consumptions
 
 ##Hypothesis Testing
+![image](https://github.com/user-attachments/assets/e2e84a07-953a-4176-8c2e-3b86d0befcc8)
+The null hypothesis is the consideration that both these buildings have the same amount of emission output
+The alternate hypothesis is to disprove the model and state there is difference in emission of these 2 buildings
+The t-test is used when information is unkown about the population i.e mean and standard deviation unknown
+From the above test we can conclude that there is a signifcant difference between emission from an office and a recreational centre
