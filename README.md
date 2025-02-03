@@ -26,6 +26,7 @@ To obtain valid postal codes ex: T2C 4M3 we use a regex: ^[A-Z][0-9][A-Z][ ][0-9
 This extracts all the valid postal codes and replaces invalid ones with []
 ![image](https://github.com/user-attachments/assets/97ba3168-4cd9-4166-ae33-850a75f9264a)
 Used generative AI to get code that would clean and extract data from property to names and addresses
+**Regex Has been used throughout the exercise file. It has been used wherever the columns contained non-numerical values**
 ![image](https://github.com/user-attachments/assets/a35095a5-ab47-47ce-a687-c30e2d4d9a74)
 
 ## EDA and aggregration
